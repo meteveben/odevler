@@ -3,4 +3,4 @@
 ---
 ### Odev 1
 
-HTML Temelleri - Paragraf ve başlık etiketleri kullanılarak basit bir hakkımda sayfası düzenlendi.
+HTML Temelleri - Paragraf ve başlık etiketleri kullanılarak basit bir hakkımda sayfası düzenlendi. 
